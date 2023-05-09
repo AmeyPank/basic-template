@@ -8,7 +8,15 @@
     text-align: center;
 }
 .navbar .links a{
-font-size: 20px;
-text-align: center;
-text-decoration: none;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.about h1, .section h1{
+    text-align: center;
+    margin: 20px;
+    font-size: 40px;
+    color: tomato;
 }
